@@ -39,3 +39,6 @@ pnpm test
 
 希望大家早日摆脱疾病困扰。
 
+# Preview
+<img width="1920" height="919" alt="image" src="https://github.com/user-attachments/assets/3507cf57-d249-4f5e-8834-59784f1ae874" />
+
